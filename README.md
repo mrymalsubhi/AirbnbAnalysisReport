@@ -6,7 +6,12 @@ During the data analytics bootcamp with Le Wagon, and on the 4th week, I delved 
 I embarked on a mini project about Airbnb with the goal of is answering the bussines question:
 
 "Why do some hosts rent more than others?" 🤔⁉️
-* With the Airbnb data at my fingertips, I started by exploring the data I had
+
+
+
+ 
+With the Airbnb data at my fingertips,
+* I started by exploring the data I had
 * Merged the data in one table on Google BigQuery
 * Imported it on Looker Studio
 * Identified and calculated key performance indicators (KPIs) such as occupancy rate
