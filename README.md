@@ -5,7 +5,7 @@ During the data analytics bootcamp with Le Wagon, and on the 4th week, I delved 
 
 I embarked on a mini project about Airbnb with the goal of is answering the bussines question:
 
-"Why do some hosts rent more than others?" 🤔⁉️
+``` "Why do some hosts rent more than others?" 🤔⁉️``` 
 
 
 
