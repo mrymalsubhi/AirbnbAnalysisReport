@@ -10,6 +10,6 @@ I embarked on a mini project about Airbnb with the goal of answering the bussine
 * Identified and calculated key performance indicators (KPIs) such as occupancy rate.
 * Created some insightful charts, each chart highlighted the relevant metrics and visualize trends and patterns.
 
-#### 🔗 Here you can find the link of the report: 
+#### 🔗 Here you can find the link of the report:  https://lookerstudio.google.com/reporting/0a5b68a2-d9c9-4f19-909e-a2f71377cfbd
 
 
