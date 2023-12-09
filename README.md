@@ -20,6 +20,6 @@ With the Airbnb data at my fingertips,
 * Created some insightful charts, each chart highlighted the relevant metrics and visualized trends and patterns
 * ***
 
-#### 🔗 Here you can find the link of the report:  https://lookerstudio.google.com/reporting/0a5b68a2-d9c9-4f19-909e-a2f71377cfbd
+#### 🔗 You can find the link of the report: [Here](https://lookerstudio.google.com/reporting/0a5b68a2-d9c9-4f19-909e-a2f71377cfbd) 📄
 
 
